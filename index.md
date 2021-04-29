@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-
-[WIP: Toaru Charasort](./charasort/)
+# English
+* [Toaru Charasort](./charasort/)
