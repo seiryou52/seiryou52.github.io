@@ -2,6 +2,5 @@
 layout: default
 ---
 
-
-WIP: [Toaru Charasort](./charasort/)
-
+### Projects
+* [Toaru character sorter (EN/JP)](./charasort/).
