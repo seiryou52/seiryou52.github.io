@@ -3,4 +3,4 @@ layout: default
 ---
 
 ### Projects
-* [Toaru character sorter (EN/JP)](./charasort/).
+* [Toaru character sorter (EN/JP)](./charasort/)
