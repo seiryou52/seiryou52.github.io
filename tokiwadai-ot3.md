@@ -2,8 +2,10 @@
 layout: default
 ---
 
-Listen, the tokiwadai OT3 is _really cute_.
+Yes, they are cute.
+Yes, the quotes are cannon.
 
-![Drag Racing](./assets/img/tokiwadai-ot3.png)
+
+![Tokiwadai-ot3](./assets/img/tokiwadai-ot3.png)
 
 [back](./)
